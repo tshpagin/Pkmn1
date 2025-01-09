@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import shpagintp.pkmn.models.Card;
 import shpagintp.pkmn.service.CardService;
 import shpagintp.pkmn.service.PokemonTCGService;
+import shpagintp.pkmn.models.Student;
 
 import java.util.List;
 import java.util.UUID;
